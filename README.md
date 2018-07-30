@@ -1,7 +1,11 @@
 # prometheus_lib
 prometheus clinet for c++, very simple demo
 
-it's a simple prometheus encode code with c++, it will output the Text format example of https://prometheus.io/docs/instrumenting/exposition_formats/
+usage:
+1.  make
+2.  ./test_obj
+
+it will output the Text format example of https://prometheus.io/docs/instrumenting/exposition_formats/
 
 TODO:
 1. it dose not support Nan, +Inf, and -Inf
